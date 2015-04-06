@@ -27,6 +27,7 @@ console
 
 .. code-block:: console
 
-   $ do --something
-   $ do --something=nicee
-   # really do "something nice""
+   $ make me a sandwich
+   $ printf "%s\n" "what? do it yourself"
+   # make me a sanditch
+   $ echo "ok"
