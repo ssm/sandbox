@@ -13,8 +13,19 @@ Shell examples
      sleep 60
    done
 
+shell-session
+-------------
 
 .. code-block:: shell-session
+
+   $ do --something
+   $ do --something=nicee
+   # really do "something nice""
+
+console
+-------
+
+.. code-block:: console
 
    $ do --something
    $ do --something=nicee
